@@ -1,4 +1,4 @@
-# Jellyfish Visualization
+# Classifying Jellyfish by Species
 
 Computer Vision Classification of Jellyfish Images
 
